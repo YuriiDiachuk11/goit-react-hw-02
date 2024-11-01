@@ -1,0 +1,11 @@
+.box {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  color: black;
+  margin-bottom: 50px;
+}
+.text {
+  font-size: 20px;
+}

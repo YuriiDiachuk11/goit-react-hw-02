@@ -1,0 +1,9 @@
+.options {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+.button {
+  border: 2px solid violet;
+  border-radius: 10px;
+}
